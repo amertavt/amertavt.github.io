@@ -1,0 +1,71 @@
+############################
+## Author
+############################
+
+author:
+  name: "Amerta Virtual"
+  image: 
+  greeting: "Beyond Virtual Bond"
+  icon: 
+
+############################
+## Links
+############################
+
+links:
+  # - github: https://github.com/chrede88/qubt
+  # - facebook: https://github.com/chrede88/qubt
+  # - x-twitter:
+  # - mastodon:
+  # - linkedin: 
+  # - instagram:
+  # - reddit: 
+  # - telegram: 
+  # - whatsapp: 
+  # - signal: 
+  # - codepen: 
+  # - dev: 
+  # - email: 
+  # - website:
+  # - link: 
+  # - discord:
+  # - orcid:
+  # - slack:
+  # - stack-overflow: 
+  # - twitch: 
+  # - patreon: 
+  # - soundcloud:
+  # - dribbble: 
+  # - stack-exchange: 
+  # - tiktok: 
+  # - youtube:
+  # - keybase: 
+  # - flickr: 
+  # - tumblr:
+  # - kickstarter: 
+  # - snapchat:
+  # - bluesky: 
+  # - bitbucket:
+  # - bandcamp: 
+  # - etsy: 
+  # - spotify: 
+  # - pinterest: 
+  # - strava: 
+  # - untappd: 
+  # - skype: 
+  # - medium: 
+  # - foursquare: 
+  # - apple: 
+  # - amazon: 
+  # - google: 
+  # - paypal: 
+  # - windows: 
+
+###############################
+## OpenGraph & Twitter Cards
+###############################
+
+title: "Amerta Virtual Website"
+description: "Beyond Virtual Bond"
+images:
+  - thumbnail.jpeg
