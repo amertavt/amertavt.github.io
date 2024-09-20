@@ -1,0 +1,17 @@
+############################
+## CHANGE THESE
+############################
+
+# baseURL: 'https://chrede88.github.io/qubt'
+baseURL: 'http://localhost:1313'
+title: 'Amerta Theme'
+
+############################
+## MISC
+############################
+
+enableEmoji: true
+disableKinds: ['taxonomy', 'term']
+languageCode: 'en-us'
+
+
